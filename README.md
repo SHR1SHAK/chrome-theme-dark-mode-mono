@@ -18,4 +18,8 @@ chrome://extensions
 
 ![image](https://github.com/user-attachments/assets/d3288133-99bb-4a3d-b878-7fa63dc9424d)
 
-5. Find the folder where you have cloned this repo and select that folder and click load.
+5. Select the folder where you have cloned this repo and click load.
+
+Final Result
+![image](https://github.com/user-attachments/assets/028ad414-ecc6-447a-ab9e-847f2262bacf)
+
