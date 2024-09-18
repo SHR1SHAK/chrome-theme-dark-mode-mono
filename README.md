@@ -22,5 +22,6 @@ chrome://extensions
 
 Final Result
 
-![image](https://github.com/user-attachments/assets/028ad414-ecc6-447a-ab9e-847f2262bacf)
+![368467138-028ad414-ecc6-447a-ab9e-847f2262bacf](https://github.com/user-attachments/assets/34eed8b9-c7de-430d-b2df-bf9ec507dfc7)
+
 
