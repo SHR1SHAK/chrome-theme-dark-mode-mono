@@ -21,5 +21,6 @@ chrome://extensions
 5. Select the folder where you have cloned this repo and click load.
 
 Final Result
+
 ![image](https://github.com/user-attachments/assets/028ad414-ecc6-447a-ab9e-847f2262bacf)
 
